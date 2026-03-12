@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jeongminji4490/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/jeongminji4490/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jeongminji4490/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
