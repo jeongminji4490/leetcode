@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jeongminji4490/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/jeongminji4490/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,8 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
