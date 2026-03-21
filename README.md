@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jeongminji4490/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/jeongminji4490/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/jeongminji4490/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/jeongminji4490/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/jeongminji4490/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jeongminji4490/leetcode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/jeongminji4490/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
