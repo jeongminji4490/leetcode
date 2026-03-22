@@ -4,11 +4,15 @@ class Solution {
     for (int i=0; i<s.length; i++) {
         map[s[i]] = (map[s[i]] ?? 0) + 1;
     }
-    if (map.containsValue(1)) {
-        final key = map.entries.firstWhere((e) => e.value == 1).key;
-        return s.indexOf(key);
-    } else {
-        return -1;
-    }
+    for (int i=0; i<s.length; i++) {
+        if (map[s[i]] == 1) return i;
+    } 
+    return -1;
+    // if (map.containsValue(1)) {
+    //     final key = map.entries.firstWhere((e) => e.value == 1).key;
+    //     return s.indexOf(key);
+    // } else {
+    //     return -1;
+    // }
   }
 }
