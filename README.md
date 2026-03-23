@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeongminji4490/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/jeongminji4490/leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/jeongminji4490/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jeongminji4490/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/jeongminji4490/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/jeongminji4490/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/jeongminji4490/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/jeongminji4490/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jeongminji4490/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/jeongminji4490/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/jeongminji4490/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -79,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
