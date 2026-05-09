@@ -1,9 +1,12 @@
 class Solution {
   int mostWordsFound(List<String> sentences) {
-    List<int> result = [];
+    int max = 0;
     for (int i=0; i<sentences.length; i++) {
-        result.add(sentences[i].split(" ").length);
+        final count = sentences[i].split(" ").length;
+
+        if (count > max) max = count;
     }
-    return result.reduce((a, b) => a > b ? a : b);
+
+    return max;
   }
 }
