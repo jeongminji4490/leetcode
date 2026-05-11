@@ -1,15 +1,11 @@
 class Solution:
     def subtractProductAndSum(self, n: int) -> int:
-        product = 0
+        product = 1
         sum = 0
-        isFirst = True
         while n > 0:
-            sum += n%10
-            if product == 0 and isFirst == True:
-                product = sum
-                isFirst = False
-            else:
-                product *= n%10
+            digit = n%10
+            sum += digit
+            product *= digit
             n //= 10
         return product - sum
         
