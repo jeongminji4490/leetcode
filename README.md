@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jeongminji4490/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/jeongminji4490/leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/jeongminji4490/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jeongminji4490/leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/jeongminji4490/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jeongminji4490/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jeongminji4490/leetcode/tree/master/0217-contains-duplicate) |
@@ -164,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jeongminji4490/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jeongminji4490/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
