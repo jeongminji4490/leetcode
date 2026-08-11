@@ -3,39 +3,43 @@ class Solution:
         if nums is None:
             return [-1, -1]
 
+        result = []
         first = 0
         last = len(nums) - 1
-        left = -1
 
-        result = []
+        left = -1
 
         while first <= last:
             mid = (first + last) // 2
 
-            if nums[mid] == target:
+            if target == nums[mid]:
                 left = mid
                 last = mid - 1
-            elif nums[mid] < target:
-                first = mid + 1
-            else:
+            elif target < nums[mid]:
                 last = mid - 1
+            else:
+                first = mid + 1
 
         first = 0
         last = len(nums) - 1
+
         right = -1
 
         while first <= last:
             mid = (first + last) // 2
 
-            if nums[mid] == target:
+            if target == nums[mid]:
                 right = mid
                 first = mid + 1
-            elif nums[mid] < target:
-                first = mid + 1
-            else:
+            elif target < nums[mid]:
                 last = mid - 1
+            else:
+                first = mid + 1
 
+        
         return [left, right]
+                
+
         
 
 
