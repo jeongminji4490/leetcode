@@ -4,6 +4,9 @@
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         # n = 5 (1, 2, 3, 4, 5)
+        if n == 1:
+            return 1
+            
         first = 1
         last = n
         result = 0
