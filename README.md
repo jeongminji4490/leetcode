@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jeongminji4490/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jeongminji4490/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jeongminji4490/leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/jeongminji4490/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jeongminji4490/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jeongminji4490/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jeongminji4490/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jeongminji4490/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/jeongminji4490/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jeongminji4490/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
