@@ -5,16 +5,18 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        flag = 0 # 자릿수 올림 저장
-        answer = ListNode() # 더미 헤드 노드
-        current = answer
+        flag = 0
+        dummy = ListNode()
+        current = dummy
 
         while l1 or l2 or flag:
-            val1 = l1.val if l1 else 0
-            val2 = l2.val if l2 else 0
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
 
-            total = val1 + val2 + flag
+            total = v1 + v2 + flag
+
             flag = 1 if total > 9 else 0
+             
             current.next = ListNode(total % 10)
 
             current = current.next
@@ -24,4 +26,4 @@ class Solution:
             if l2:
                 l2 = l2.next
 
-        return answer.next
+        return dummy.next
