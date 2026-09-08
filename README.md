@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jeongminji4490/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jeongminji4490/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
+| [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/jeongminji4490/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jeongminji4490/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jeongminji4490/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jeongminji4490/leetcode/tree/master/0141-linked-list-cycle) |
+| [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/jeongminji4490/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Binary Search
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jeongminji4490/leetcode/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/jeongminji4490/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
