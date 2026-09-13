@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jeongminji4490/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/jeongminji4490/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/jeongminji4490/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/jeongminji4490/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jeongminji4490/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
