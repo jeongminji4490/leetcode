@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jeongminji4490/leetcode/tree/master/0412-fizz-buzz) |
+| [0649-dota2-senate](https://github.com/jeongminji4490/leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/jeongminji4490/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/jeongminji4490/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jeongminji4490/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/jeongminji4490/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/jeongminji4490/leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/jeongminji4490/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Binary Search
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/jeongminji4490/leetcode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/jeongminji4490/leetcode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
