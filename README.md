@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jeongminji4490/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jeongminji4490/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/jeongminji4490/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jeongminji4490/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jeongminji4490/leetcode/tree/master/0162-find-peak-element) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/jeongminji4490/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jeongminji4490/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jeongminji4490/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeongminji4490/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jeongminji4490/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jeongminji4490/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
