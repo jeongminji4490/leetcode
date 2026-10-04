@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jeongminji4490/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/jeongminji4490/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/jeongminji4490/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/jeongminji4490/leetcode/tree/master/2974-minimum-number-game) |
 ## Counting
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jeongminji4490/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/jeongminji4490/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/jeongminji4490/leetcode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
@@ -256,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/jeongminji4490/leetcode/tree/master/0649-dota2-senate) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
