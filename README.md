@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/jeongminji4490/leetcode/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/jeongminji4490/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jeongminji4490/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/jeongminji4490/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/jeongminji4490/leetcode/tree/master/1550-three-consecutive-odds) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jeongminji4490/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/jeongminji4490/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jeongminji4490/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/jeongminji4490/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jeongminji4490/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jeongminji4490/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jeongminji4490/leetcode/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/jeongminji4490/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/jeongminji4490/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeongminji4490/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/jeongminji4490/leetcode/tree/master/2974-minimum-number-game) |
