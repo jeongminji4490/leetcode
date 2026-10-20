@@ -4,26 +4,26 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
+        curr1 = l1
+        curr2 = l2
+        dummy = ListNode(0)
+        result = dummy
+
         flag = 0
-        dummy = ListNode()
-        current = dummy
 
-        while l1 or l2 or flag:
-            v1 = l1.val if l1 else 0
-            v2 = l2.val if l2 else 0
+        while curr1 is not None or curr2 is not None or flag:
+            val1 = curr1.val if curr1 else 0
+            val2 = curr2.val if curr2 else 0
+            val = val1 + val2 + flag
+            flag = val // 10
 
-            total = v1 + v2 + flag
-
-            flag = 1 if total > 9 else 0
-             
-            current.next = ListNode(total % 10)
-
-            current = current.next
-
-            if l1:
-                l1 = l1.next
-            if l2:
-                l2 = l2.next
+            result.next = ListNode(val % 10)
+            result = result.next
+            if curr1 is not None:
+                curr1 = curr1.next
+            if curr2 is not None:
+                curr2 = curr2.next
 
         return dummy.next
+            
